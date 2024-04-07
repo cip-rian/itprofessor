@@ -1,5 +1,5 @@
 
-# ***IT tutorials***
+# ***IT tutorials @professorcomputer***
 
 
 The repository contains different courses for all kinds of difficulty level graded as Easy 😀 , Medium 😐, or Hard 😰
