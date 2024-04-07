@@ -8,6 +8,8 @@ The repository contains different courses for all kinds of difficulty level grad
 | Programming language | Difficulty             | Link  |
 | :------------------- | :--------------------: | :---: |
 | Java                 | 😀                     | |
+| Java                 | 😐                     | |
+| Java                 | 😰                     | |
 | Javascript           | 😀                     | |
 | HTML                 | 😀                     | |
 | C#                   | 😀                     | |
