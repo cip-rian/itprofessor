@@ -16,4 +16,4 @@ The repository contains different courses for all kinds of difficulty level grad
 
 Test
 
-   ** npm init **
+   **npm init**
