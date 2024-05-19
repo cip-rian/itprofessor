@@ -14,6 +14,6 @@ The repository contains different courses for all kinds of difficulty level grad
 | HTML                 | 😀                     | |
 | C#                   | 😀                     | |
 
-Test
+Inicializa tu proyecto node:
 
-    **npm init**
+    npm init
